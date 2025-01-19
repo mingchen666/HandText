@@ -1,0 +1,17 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+Flask-Limiter==3.3.1
+Flask-RESTful==0.3.9
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.4
+Pillow==10.0.1
+opencv-python==4.8.0.74
+numpy
+scikit-learn==1.5.2
+scipy
+PyMuPDF==1.23.5
+PyPDF2==3.0.1
+python-docx==0.8.11
+werkzeug==2.3.6
+openai==1.59.6
+opencv-python-headless==4.10.0.84

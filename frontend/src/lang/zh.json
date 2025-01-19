@@ -1,0 +1,142 @@
+{
+  "hello": "你好",
+  "welcome": "欢迎使用我们的应用程序",
+  "button": {
+    "submit": "提交",
+    "cancel": "取消"
+  },
+  "file_upload": {
+      "drag_or_click": "将需要手写的文档拖放到此处或",
+      "click_to_upload": "点击上传",
+      "supported_file_types": "支持文件类型有: txt, markdown, pdf, docx等, 最大支持5MB"
+    },
+  "menu": {
+    "home": "首页",
+    "text_to_handwriting": "文本转手写",
+    "text_to_handwriting_items": {
+      "text_to_handwriting_text": "文字转手写",
+      "text_to_handwriting_file": "文档转手写"
+    },
+    "handwriting_to_text": "手写转文本",
+    "suggestion_feedback": "建议/反馈",
+    "user_center": "个人中心",
+    "about": "关于"
+  },
+  "text2write": {
+    "base_form": {
+      "background_image_optional": "背景图片(可选):",
+      "upload_background_image": "上传背景图片",
+      "select_font": "选择字体",
+      "width": "宽度",
+      "height": "高度",
+      "font_color": "字体颜色",
+      "font_size": "字体大小",
+      "underline": "增加下划线"
+    },
+    "buttons": {
+      "save_all": "保存设置",
+      "reset": "重置设置",
+      "preview": "预览",
+      "generate_image": "生成完整手写图片",
+      "generate_pdf": "生成PDF",
+      "upload": "上传",
+      "cancel": "取消",
+      "save": "保存"
+    },
+    "more_settings": {
+      "title": "更多设置",
+      "margin_setting": "边距设置⚙️",
+      "advanced_setting": "高级设置🔧"
+    },
+    "labels": {
+      "background_image_optional": "背景图片(可选):",
+      "please_select": "请选择"
+    },
+    "preview_area": {
+      "loading_text": "生成中，请稍等...",
+      "title": "预览区",
+      "tooltip_download": "下载图片到本地",
+      "alt_text": "预览图片"
+    }
+  },
+  "write2text": {
+    "upload_section": {
+      "title": "图片上传",
+      "btn_text": "点击上传图片"
+    },
+    "agreement": {
+      "read_and_agree": "我已阅读并同意",
+      "terms_link": "图片上传协议"
+    },
+    "submit_button": "手写转文字",
+    "alert": {
+      "title": "提示",
+      "description": {
+        "1": "请勿上传任何涉及隐私、敏感信息或违规内容的图片,违者追责!",
+        "2": "支持 jpg/png/webp 等常见格式的图片。",
+        "3": "为了获得更好的识别效果，请上传清晰度较高的图片。",
+        "4": "上传的图片大小最大为2MB。"
+      }
+    },
+    "loading识别提示": "识别中，请稍后...",
+    "preview_card": {
+      "title": "识别结果",
+      "tooltip_copy": "复制"
+    }
+  },
+  "background_image_optional": "背景图片(可选):",
+  "upload_background_image": "上传背景图片",
+  "I have read and agree": "我已阅读并同意",
+  "terms and service": "《服务条款》",
+  "and": "和",
+  "or": "或者",
+  "privacy policy": "《隐私政策》",
+  "cancel": "取消",
+  "confirm": "确定",
+  "save": "保存",
+  "image preview area": "图片预览区域",
+  "image upload area": "图片上传区域",
+  "image upload": "图片上传",
+  "image upload success": "图片上传成功",
+  "image upload fail": "图片上传失败",
+  "image upload error": "图片上传出错",
+  "image upload progress": "图片上传进度",
+  "image upload complete": "图片上传完成",
+  "image upload abort": "图片上传取消",
+  "image upload timeout": "图片上传超时",
+  "Start now": "现在开始",
+  "core features": "核心功能",
+  "handwriting text recognition": "手写文字识别",
+  "text to handwriting": "文本转手写",
+  "efficient and accurate": "高效准确",
+  "Upload handwritten images and quickly recognize them as text, supporting various image formats.": "上传手写图片，快速识别为文字，支持多种图片格式。",
+  "Support uploading Word, TXT and other files, and convert them into handwritten style.": "支持上传Wod、TXT等文件，转换为手写风格。",
+  "Based on advanced LLMs, it offers fast recognition speed and high accuracy.": "基于先进的 llm 技术，识别速度快，准确率高。",
+  "How to use": "如何使用",
+  "Upload file": "上传文件",
+  "Select handwritten image or upload file": "选择手写图片或文件上传",
+  "System processing": "系统处理",
+  "Autonomous recognition or conversion of content": "自动识别或转换内容",
+  "Get results": "获取结果",
+  "Download or copy the recognized text": "下载或复制识别后的文字",
+  "Open source project": "开源项目",
+  "This project is completely open source, with publicly available code, and contributions and feedback are welcome. You can find our code repository on GitHub: GitHub Repository.": "本项目完全开源，代码公开，欢迎贡献和反馈。你可以在 GitHub 上找到我们的代码仓库：",
+  "GitHub Repository": "GitHub 仓库",
+  "User reviews": "用户评价",
+  "Zhang San": "张三",
+  "This tool is amazing! The recognition speed is fast and the accuracy is high, fully meeting my needs.": "这个工具太棒了！识别速度快，准确率高，完全满足我的需求。",
+
+  "Li Si": "李四",
+  "The function of uploading files and converting them to handwriting is very practical, saving me a lot of time.": "文件上传转手写的功能非常实用，帮我节省了大量时间。",
+
+  "Wang Wu": "王五",
+  "The interface is simple and beautiful, easy to operate, highly recommended!": "界面简洁美观，操作简单，强烈推荐！",
+
+  "Zhao Liu": "赵六",
+  "The recognition effect is very good, especially for handwritten text with high accuracy.": "识别效果非常好，尤其是手写文字的识别准确率很高。",
+
+  "Sun Qi": "孙七",
+  "Very convenient tool, supporting multiple file formats, highly recommended!": "非常方便的工具，支持多种文件格式，强烈推荐！",
+
+  "View more reviews": "查看更多评价"
+}

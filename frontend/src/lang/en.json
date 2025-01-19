@@ -1,0 +1,135 @@
+{
+  "hello": "Hello",
+  "welcome": "Welcome to our application",
+  "button": {
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "file_upload": {
+    "drag_or_click": "Drag the document you want to be written by hand here or",
+    "click_to_upload": "click to upload",
+    "supported_file_types": "Supported file types include: txt, markdown, pdf, docx, etc., with a maximum size of 5MB"
+  },
+  "menu": {
+    "home": "Home",
+    "text_to_handwriting": "Text to Handwriting",
+    "text_to_handwriting_items": {
+      "text_to_handwriting_text": "Text to Handwriting",
+      "text_to_handwriting_file": "Document to Handwriting"
+    },
+    "handwriting_to_text": "Handwriting to Text",
+    "suggestion_feedback": "Suggestions/Feedback",
+    "user_center": "User Center",
+    "about": "About"
+  },
+  "text2write": {
+    "base_form": {
+      "background_image_optional": "Background Image (Optional):",
+      "upload_background_image": "Upload Background Image",
+      "input_placeholder": "Enter the text to be written by hand",
+      "select_font": "Select Font",
+      "width": "Width",
+      "height": "Height",
+      "font_color": "Font Color",
+      "font_size": "Font Size",
+      "underline": "Add Underline"
+    },
+    "buttons": {
+      "save_all": "Save Settings",
+      "reset": "Reset Settings",
+      "preview": "Preview",
+      "generate_image": "Generate Handwriting Image",
+      "generate_pdf": "Generate PDF",
+      "upload": "Upload",
+      "cancel": "Cancel",
+      "save": "Save"
+    },
+    "more_settings": {
+      "title": "More Settings",
+      "margin_setting": "Margin Setting ⚙️",
+      "advanced_setting": "Advanced Setting 🔧"
+    },
+    "labels": {
+      "background_image_optional": "Background Image (Optional):",
+      "please_select": "Please Select"
+    },
+    "preview_area": {
+      "loading_text": "Generating, please wait...",
+      "title": "Preview Area",
+      "tooltip_download": "Download Image to Local",
+      "alt_text": "Preview Image"
+    }
+  },
+  "write2text": {
+    "upload_section": {
+      "title": "Image Upload",
+      "btn_text": "Click to Upload Image"
+    },
+    "agreement": {
+      "read_and_agree": "I have read and agree to the",
+      "terms_link": "image upload agreement"
+    },
+    "submit_button": "Convert Handwriting to Text",
+    "alert": {
+      "title": "Notice",
+      "description": {
+        "1": "Do not upload any images that involve privacy, sensitive information, or violate regulations. Violators will be held responsible!",
+        "2": "Supported image formats include jpg/png/webp, etc.",
+        "3": "For better recognition results, please upload high-definition images.",
+        "4": "The maximum size of uploaded images is 2MB."
+      }
+    },
+    "loading识别提示": "Recognizing, please wait...",
+    "preview_card": {
+      "title": "Recognition Result",
+      "tooltip_copy": "Copy"
+    }
+  },
+
+  "I have read and agree": "I have read and agree",
+  "terms and service": "terms and service",
+  "and": "and",
+  "or": "or",
+  "privacy policy": "privacy policy",
+  "cancel": "cancel",
+  "confirm": "confirm",
+  "save": "save",
+  "image preview area": "image preview area",
+  "Start now": "Start now",
+  "core features": "Core Features",
+  "handwriting text recognition": "handwriting text recognition",
+  "text to handwriting": "text to handwriting",
+  "efficient and accurate": "efficient and accurate",
+  "Upload handwritten images and quickly recognize them as text, supporting various image formats.": "Upload handwritten images and quickly recognize them as text, supporting various image formats.",
+  "Support uploading Word, TXT and other files, and convert them into handwritten style.": "Support uploading Word, TXT and other files, and convert them into handwritten style.",
+  "Based on advanced LLMs, it offers fast recognition speed and high accuracy.": "Based on advanced LLM technology, it offers fast recognition speed and high accuracy.",
+  "How to use": "How to use",
+  "Upload file": "Upload file",
+  "Select handwritten image or upload file": "Select handwritten image or upload file",
+  "System processing": "System processing",
+  "Auto识别或转换内容": "Auto detect or convert content",
+  "Autonomous recognition or conversion of content": "Autonomous recognition or conversion of content",
+  "Get results": "Get results",
+  "获取结果": "Get results",
+  "Download or copy the recognized text": "Download or copy the recognized text",
+  "Open source project": "Open source project",
+  "This project is completely open source, with publicly available code, and contributions and feedback are welcome. You can find our code repository on GitHub: GitHub Repository.": "This project is completely open source, with publicly available code, and contributions and feedback are welcome. You can find our code repository on GitHub:",
+  "GitHub Repository": "GitHub Repository",
+  "User reviews": "User reviews",
+  "Zhang San": "Zhang San",
+  "This tool is amazing! The recognition speed is fast and the accuracy is high, fully meeting my needs.": "This tool is amazing! The recognition speed is fast and the accuracy is high, fully meeting my needs.",
+
+  "Li Si": "Li Si",
+  "The function of uploading files and converting them to handwriting is very practical, saving me a lot of time.": "The function of uploading files and converting them to handwriting is very practical, saving me a lot of time.",
+
+  "Wang Wu": "Wang Wu",
+  "The interface is simple and beautiful, easy to operate, highly recommended!": "The interface is simple and beautiful, easy to operate, highly recommended!",
+
+  "Zhao Liu": "Zhao Liu",
+  "The recognition effect is very good, especially for handwritten text with high accuracy.": "The recognition effect is very good, especially for handwritten text with high accuracy.",
+
+  "Sun Qi": "Sun Qi",
+  "Very convenient tool, supporting multiple file formats, highly recommended!": "Very convenient tool, supporting multiple file formats, highly recommended!",
+
+  "View more reviews": "View more reviews"
+}
